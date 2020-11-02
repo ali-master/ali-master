@@ -7,7 +7,7 @@ I’m experienced a lot with front-end frameworks such as React JS, Redux, Redux
 I am passionate about reading, writing, politics, social justice, and all things tech and I always love JavaScripting and love to learn more and more. I am most excited to have a career that places a premium on lifelong education. 
 
 - 🔭 I’m currently working on a bank PWA version.
-- 🌱 I’m currently learning algorithms and use them in javascript
+- 🌱 I’m currently learning Algorithms and Data structures
 - 👯 I’m looking to collaborate on nothing
 - 🤔 I’m looking for help with nothing
 - 💬 Ask me about my job
