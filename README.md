@@ -1,6 +1,6 @@
 ### Hi there 👋
 
 #### Frontend Chaper Lead at [Hasin Tech](hasin.ir)
-Building things in JavaScript - mostly working with Typescript, React, Redux, Redux-Saga.
+Building things in JavaScript - mostly working with Typescript, React, Redux, Redux-Saga and Docker.
 
 To get in touch, feel free to message me on [Twitter](https://twitter.com/usestrict_dev)
