@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-#### Frontend Chaper Lead at [Hasin Tech](https://hasin.ir)
-Building things in JavaScript - mostly working with Typescript, React, Redux, Redux-Saga and Docker.
+#### Technical Team Lead at [Bitex](https://bitex.ir)
 
-To get in touch, feel free to message me on [Twitter](https://twitter.com/usestrict_dev)
+Building things in JavaScript - primarily working with Typescript, Nodejs, and Docker.
+
+To get in touch, feel free to message me on [Linkedin](https://www.linkedin.com/in/alitorki/)
